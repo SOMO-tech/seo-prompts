@@ -1,6 +1,6 @@
 # SEO Prompts for AI-Assisted Development
 
-A curated collection of **17 ready-to-use prompts** designed to implement comprehensive technical SEO in any React, Next.js, or modern web project using AI coding assistants (Claude, Cursor, Copilot, etc.).
+A curated collection of **17 ready-to-use prompts** designed to implement comprehensive technical SEO in any React, Next.js, or modern web project using AI coding assistants (Lovable, Bolt, Replit, Claude, Cursor, Copilot, etc.).
 
 ## Why this exists
 
