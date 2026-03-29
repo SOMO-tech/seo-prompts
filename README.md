@@ -90,7 +90,3 @@ Found a way to improve a prompt? PRs welcome.
 ## License
 
 MIT — use these prompts however you want, commercially or otherwise.
-
----
-
-Built by [SOMO Software](https://somo-tech.com) — custom software development powered by AI.
